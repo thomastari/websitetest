@@ -23,6 +23,8 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+![]({{site.baseurl}}/logo%20site.jpg)
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
