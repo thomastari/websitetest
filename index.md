@@ -23,7 +23,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-![]({{site.baseurl}}/logo%20site.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 **Bold** and _Italic_ and `Code` text
 
