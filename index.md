@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/thomastari/websitetest/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![logo scube]({{site.baseurl}}/http://asso-scube.fr/wp-content/uploads/2016/06/Logo-Scube.png)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/dbbtmskCRUY" frameborder="0" allowfullscreen></iframe>
 
 ### Markdown
 
