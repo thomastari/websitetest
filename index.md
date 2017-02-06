@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/thomastari/websitetest/edi
 
 ![]({{site.baseurl}}/SciencesPo_Embleme_Rouge_RVB.png)
 
-![mon oimage]({{site.baseurl}}/logo-carre.png)
+![mon oimage](https://github.com/thomastari/websitetest/raw/master/logo-carre.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
